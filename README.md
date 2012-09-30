@@ -1,3 +1,5 @@
+The resulting application is a moddified version of [CE] and is not owned by Digital Wolf Studio and is not official and has not been fully tested,we recommend using the Official version and **Use this version at your own risk!**
+
 # ![Clipperz icon][icon] CLIPPERZ COMMUNITY EDITION - Online Password Manager
 
 
